@@ -29,3 +29,9 @@ You will find the schedule as well as the materials required for this course.
 5. Building custom backend using acs
 6. Building custom backend using deployd
 7. Heroku introduction
+
+----
+
+## Day 1 ##
+### Installing Appcelerator Titanium tools ###
+For installing Appcelerator Titanium and the required tools please follow [Ithis blog post](http://blog.hashapps.com/appcelerator-titanium-getting-started/)
