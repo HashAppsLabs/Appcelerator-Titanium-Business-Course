@@ -33,5 +33,10 @@ You will find the schedule as well as the materials required for this course.
 ----
 
 ## Day 1 ##
+
 ### Installing Appcelerator Titanium tools ###
 For installing Appcelerator Titanium and the required tools please follow [Ithis blog post](http://blog.hashapps.com/appcelerator-titanium-getting-started/)
+
+### CrossPlatform Introduction
+Check this presentation that compare between some of the avialable corss platform tools [Presentation Link](https://docs.google.com/presentation/d/1SIh1Bu5kqrNcmpc7vpFIBuWYE1Hq2JSsPy74AhYq8nI/edit?usp=sharing)
+
