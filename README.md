@@ -4,34 +4,28 @@ Appcelerator Titanium Business Course
 You will find the schedule as well as the materials required for this course.
 
 #Schedule#
+
 ## Week 1 ##
 1. Installing environment required applications
-2. Cross platform development tools
-3. JavaScript basic course
-4. JavaScript quirky parts
+2. Installing Appcelerator Titanium tools
+4. Cross platform development tools
+5. JavaScript basic course
+6. JavaScript quirky parts
 
 ## Week 2 ##
-1. Installing Appcelerator Titanium tools
-2. Appcelerator Titanium Basics
-3. Debugging & Tools
-4. User Interface
-
+1. Appcelerator Titanium Basics
+2. Debugging & Tools
+3. User Interface
+4. Appcelerator Titanium Alloy Basics
+5. Alloy Models & Collections
+6. Networking & Multimedia & Filesystem
+7. Alloy unit testing
 
 ## Week 3 ##
-1. Appcelerator Titanium Alloy Basics
-2. Alloy Models & Collections
-3. Networking
-4. Multimedia
-5. Filesystem
-
-## Week 4 ##
-1. Alloy unit testing
-2. Extending Titanium
-3. Tishadow
-4. Using Titanium CLI
-
-## Week 5 ##
-1. Node introduction
-2. Building custom backend using acs
-3. Building custom backend using deployd
-4. Heroku introduction
+1. Extending Titanium
+2. Tishadow
+3. Using Titanium CLI
+4. Node introduction
+5. Building custom backend using acs
+6. Building custom backend using deployd
+7. Heroku introduction
