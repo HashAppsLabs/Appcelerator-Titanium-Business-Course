@@ -40,6 +40,8 @@ For installing Appcelerator Titanium and the required tools please follow [Ithis
 ### CrossPlatform Introduction
 Check this presentation that compare between some of the avialable corss platform tools [Presentation Link](https://docs.google.com/presentation/d/1SIh1Bu5kqrNcmpc7vpFIBuWYE1Hq2JSsPy74AhYq8nI/edit?usp=sharing)
 
+### Test ###
+You can test your knowledge with [this test](https://docs.google.com/forms/d/14VyWSHieSXTVJ-ilcVwUhVXUwFtK9bQSA_bR-ySyh-w/viewform)
 ----
 
 ## Day 2 ##
