@@ -40,3 +40,10 @@ For installing Appcelerator Titanium and the required tools please follow [Ithis
 ### CrossPlatform Introduction
 Check this presentation that compare between some of the avialable corss platform tools [Presentation Link](https://docs.google.com/presentation/d/1SIh1Bu5kqrNcmpc7vpFIBuWYE1Hq2JSsPy74AhYq8nI/edit?usp=sharing)
 
+----
+
+## Day 2 ##
+
+### Javascript Crash Course ###
+You should finish the Javascript course in the [Codecademy Website](http://www.codecademy.com/courses/getting-started-v2/0/1?curriculum_id=506324b3a7dffd00020bf661)
+
