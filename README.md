@@ -42,6 +42,7 @@ Check this presentation that compare between some of the avialable corss platfor
 
 ### Test ###
 You can test your knowledge with [this test](https://docs.google.com/forms/d/14VyWSHieSXTVJ-ilcVwUhVXUwFtK9bQSA_bR-ySyh-w/viewform)
+
 ----
 
 ## Day 2 ##
