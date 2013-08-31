@@ -50,3 +50,12 @@ You can test your knowledge with [this test](https://docs.google.com/forms/d/14V
 ### Javascript Crash Course ###
 1. You should finish the Javascript course in the [Codecademy Website](http://www.codecademy.com/courses/getting-started-v2/0/1?curriculum_id=506324b3a7dffd00020bf661)
 2. Read this book [JavaScript For Cats](http://jsforcats.com/)
+
+---
+
+## Day 3 ##
+
+### Javascript Slides ###
+[JavaScript - From Birth To Closure](http://www.slideshare.net/robnyman/javascript-from-birth-to-closure)
+
+
