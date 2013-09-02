@@ -53,9 +53,11 @@ You can test your knowledge with [this test](https://docs.google.com/forms/d/14V
 
 ---
 
-## Day 3 ##
+## Day 3 - 4 ##
 
 ### Javascript Slides ###
 [JavaScript - From Birth To Closure](http://www.slideshare.net/robnyman/javascript-from-birth-to-closure)
 
+## Day 5 ##
 
+[Test your javascript knowledge](https://github.com/HashAppsLabs/Appcelerator-Titanium-Business-Course/blob/master/Test1.md)
