@@ -62,5 +62,5 @@ You can test your knowledge with [this test](https://docs.google.com/forms/d/14V
 
 [Test your javascript knowledge](https://github.com/HashAppsLabs/Appcelerator-Titanium-Business-Course/blob/master/Test1.md)
 ### Javascript Arrays ###
-[JS Arrays](http://javascript.info/tutorial/array)
-[Javascript Array Tutorial with examples](http://www.lleess.com/2013/07/javascript-array-tutorial-with-examples.html)
+1. [JS Arrays](http://javascript.info/tutorial/array)
+2. [Javascript Array Tutorial with examples](http://www.lleess.com/2013/07/javascript-array-tutorial-with-examples.html)
