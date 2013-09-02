@@ -11,7 +11,7 @@ Test 1
 7. car speed will never go more than the maxSpeed
 8. has function 'toString' that will log the model number, color, and year, ex "BMW 2013 Black".
 
-###Unit testing###
+###Test Output###
 
 ```javascript
 var c = new Car();
