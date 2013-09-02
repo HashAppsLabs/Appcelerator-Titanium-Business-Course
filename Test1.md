@@ -10,3 +10,30 @@ Test 1
 6. if the car speed is more than the maxSpeed, it will log out an error message.
 7. car speed will never go more than the maxSpeed
 8. has function 'toString' that will log the model number, color, and year, ex "BMW 2013 Black".
+
+###Unit testing###
+
+```javascript
+var c = new Car();
+
+c.model = 'Mercides';
+c.color = 'Red';
+c.year = 2012;
+c.maxSpeed = 240;
+
+c.accelerate(10); // should log error message
+console.log(c.speed) // should log 0
+
+c.drive();
+c.accelerate(50);
+console.log(c.speed) // should log 50
+
+c.accelerate(250); // should log error message
+console.log(c.speed) // should log 240
+
+c.stop();
+c.accelerate(10); // should log error message
+
+c.toString(); // should log 'Mercides 2012 Red'
+
+ ```
