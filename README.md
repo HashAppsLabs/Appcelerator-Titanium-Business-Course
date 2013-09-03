@@ -64,3 +64,7 @@ You can test your knowledge with [this test](https://docs.google.com/forms/d/14V
 ### Javascript Arrays ###
 1. [JS Arrays](http://javascript.info/tutorial/array)
 2. [Javascript Array Tutorial with examples](http://www.lleess.com/2013/07/javascript-array-tutorial-with-examples.html)
+
+
+## Day 6 ##
+Read This book [Javascriot Garder](http://bonsaiden.github.io/JavaScript-Garden/)
