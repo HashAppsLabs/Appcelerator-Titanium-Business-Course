@@ -68,3 +68,6 @@ You can test your knowledge with [this test](https://docs.google.com/forms/d/14V
 
 ## Day 6 ##
 Read This book [Javascriot Garder](http://bonsaiden.github.io/JavaScript-Garden/)
+
+## Javascript exercises ##
+Complete all the exercises in this [link](http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html)
