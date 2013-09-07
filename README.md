@@ -71,3 +71,7 @@ Read This book [Javascriot Garder](http://bonsaiden.github.io/JavaScript-Garden/
 
 ## Javascript exercises ##
 Complete all the exercises in this [link](http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html)
+
+## Day 7 ##
+[Titanium For new Developers](http://www.slideshare.net/kwhinnery/titanium-for-new-developers)
+
