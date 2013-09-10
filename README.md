@@ -72,6 +72,20 @@ Read This book [Javascriot Garder](http://bonsaiden.github.io/JavaScript-Garden/
 ## Javascript exercises ##
 Complete all the exercises in this [link](http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html)
 
-## Day 7 ##
-[Titanium For new Developers](http://www.slideshare.net/kwhinnery/titanium-for-new-developers)
+## Day 7 - Day 9##
+Read this presentation [Titanium For new Developers](http://www.slideshare.net/kwhinnery/titanium-for-new-developers)
+
+## Day 8-9 ##
+From this presentation [TCAD Certification Training](https://github.com/appcelerator-training/tcad_certification) read the following topics
+1. Building Native Mobile Apps with Titanium
+2. You're a Native Developer Now
+3. Cross-platform JavaScript Apps
+4. Titanium Studio
+5. UI Fundamentals
+
+## Day 10 ##
+Check this presentation (Titanium Alloy - Getting started)[https://github.com/appcelerator-training/tcd_training]
+
+## Day 11 ##
+Check this presentation [Titanium Certified Developer (TCD) Training](https://github.com/appcelerator-training/tcd_training)
 
